@@ -11,4 +11,4 @@
  - Google maps api
  - JAVA
 
-<img src="https://user-images.githubusercontent.com/42136056/121801920-c3e88400-cc74-11eb-8e88-3d5743f2b632.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/42136056/121801920-c3e88400-cc74-11eb-8e88-3d5743f2b632.png" width="300" height="500">
