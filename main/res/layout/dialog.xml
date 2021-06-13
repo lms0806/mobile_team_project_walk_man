@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:autoSizeTextType="uniform"
+        android:textColor="@color/purple_200"
+        android:text="목표 걸음 수" />
+
+    <EditText
+        android:id="@+id/dlgEdt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:digits="0123456789"
+        android:hint="숫자만 입력해주세요."
+        android:inputType="number" />
+
+</LinearLayout>
