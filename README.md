@@ -1,4 +1,4 @@
-# mobile_team_project_walk_man
+# mobile_team_project_walk_man (모바일 만보기)
 
 # 맴버
  - 정원용
