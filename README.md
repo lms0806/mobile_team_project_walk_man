@@ -5,6 +5,7 @@
  - 박준엽
  - 백건호
  - 임민수
+![Uploading image.png…]()
 
 # 사용 기술
  - Android Studio
