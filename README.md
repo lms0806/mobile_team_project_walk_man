@@ -34,10 +34,10 @@
             <a href="https://solved.ac/profile/lms0806">solved.ac</a>
         </td>
         <td align="center">
-            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=BGH0827" />
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=pedov46" />
             <br />
-            <a href="https://www.acmicpc.net/user/BGH0827">Baekjoon</a>
+            <a href="https://www.acmicpc.net/user/pedov46">Baekjoon</a>
             <br />
-            <a href="https://solved.ac/profile/BGH0827">solved.ac</a>
+            <a href="https://solved.ac/profile/pedov46">solved.ac</a>
         </td>
 </table>
