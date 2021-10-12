@@ -20,9 +20,9 @@
             <a href="https://github.com/tony9402">lms0806</a>
         </td>
      `  <td align="center" width="130px">
-            <a href="https://github.com/VSFe"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/4595546?v=4"/></a>
+            <a href="https://github.com/VSFe"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/74364833?v=4"/></a>
             <br />
-            <a href="https://github.com/VSFe">VSFe</a>
+            <a href="https://github.com/BGH0827">BGH0827</a>
         </td>
     </tr>
     <tr height="50px">
@@ -32,5 +32,12 @@
             <a href="https://www.acmicpc.net/user/lms0806">Baekjoon</a>
             <br />
             <a href="https://solved.ac/profile/lms0806">solved.ac</a>
+        </td>
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=BGH0827" />
+            <br />
+            <a href="https://www.acmicpc.net/user/BGH0827">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/BGH0827">solved.ac</a>
         </td>
 </table>
