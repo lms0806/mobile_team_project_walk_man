@@ -24,6 +24,16 @@
             <br />
             <a href="https://github.com/BGH0827">BGH0827</a>
         </td>
+     `  <td align="center" width="130px">
+            <a href="https://github.com/VSFe"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/80215081?v=4"/></a>
+            <br />
+            <a href="https://github.com/GoSoo_Master">GoSoo_Master</a>
+        </td>
+     `  <td align="center" width="130px">
+            <a href="https://github.com/VSFe"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/85825696?v=4"/></a>
+            <br />
+            <a href="https://github.com/junyebPark">junyebPark</a>
+        </td>
     </tr>
     <tr height="50px">
         <td align="center">
