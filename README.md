@@ -25,4 +25,12 @@
             <a href="https://github.com/VSFe">VSFe</a>
         </td>
     </tr>
+    <tr height="50px">
+        <td align="center">
+            <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=lms0806" />
+            <br />
+            <a href="https://www.acmicpc.net/user/lms0806">Baekjoon</a>
+            <br />
+            <a href="https://solved.ac/profile/lms0806">solved.ac</a>
+        </td>
 </table>
